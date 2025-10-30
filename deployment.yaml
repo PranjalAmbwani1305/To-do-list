@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: todo-container
-        image: yourdockerhubusername/to-do-list:latest
+        image: pran1113/to-do-list:latest
         ports:
         - containerPort: 5000
 ---
