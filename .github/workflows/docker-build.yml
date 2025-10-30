@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: pranjalambwani1305/to-do-list:latest
+          tags: pran1113/to-do-list:latest
